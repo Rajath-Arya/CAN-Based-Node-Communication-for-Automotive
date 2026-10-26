@@ -1,0 +1,21 @@
+# MPLAB X generated build output
+**/build/
+**/dist/
+**/target/
+*.o
+*.elf
+*.hex
+*.map
+*.d
+*.lst
+*.sdb
+*.sym
+*.cof
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local MPLAB X settings
+**/nbproject/private/
